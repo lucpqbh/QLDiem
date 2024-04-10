@@ -1,0 +1,12 @@
+C:\Users\phamq\source\repos\QLdiem\QLdiem\bin\Debug\QLdiem.exe.config
+C:\Users\phamq\source\repos\QLdiem\QLdiem\bin\Debug\QLdiem.exe
+C:\Users\phamq\source\repos\QLdiem\QLdiem\bin\Debug\QLdiem.pdb
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.csproj.AssemblyReference.cache
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.Login.resources
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.Properties.Resources.resources
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.csproj.GenerateResource.cache
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.csproj.CoreCompileInputs.cache
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.exe
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.pdb
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.Admin.resources
+C:\Users\phamq\source\repos\QLdiem\QLdiem\obj\Debug\QLdiem.User.resources
